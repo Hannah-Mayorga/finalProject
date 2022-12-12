@@ -17,10 +17,5 @@ Recipes by You is a simple cookbook app that is able to create and store recipes
 
 <br>
 
-## Website Link
 
- 
-<br>
 
-https://in-info-web4.informatics.iupui.edu/~sranegar/jungle-cook/ 
- 
